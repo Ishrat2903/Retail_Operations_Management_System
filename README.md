@@ -226,8 +226,3 @@ The database should contain the main relational tables, staging tables, and the 
 
 The project can then be used to explore the data and execute the SQL queries provided in the `Scripts` folder.
 
-## GitHub
-
-The project is available on GitHub:
-
-[Retail Operations Management System](https://github.com/Ishrat2903/Retail_Operations_Management_System)
